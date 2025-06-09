@@ -4,12 +4,7 @@ DOMAIN-SUFFIX,buyvm.net
 DOMAIN-SUFFIX,laoda.de
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,surfshark.com
-DOMAIN-KEYWORD,minecraft
-DOMAIN-KEYWORD,follow
 DOMAIN-SUFFIX,hembed.com
-DOMAIN-KEYWORD,browserscan
-DOMAIN-KEYWORD,wallhaven
-DOMAIN-KEYWORD,xsijishe
 DOMAIN-SUFFIX,jellyfin.org
 DOMAIN-SUFFIX,vmiss.com
 DOMAIN-SUFFIX,diladele.com
@@ -30,3 +25,8 @@ DOMAIN-SUFFIX,hanime1.me
 
 DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,tagss
+DOMAIN-KEYWORD,browserscan
+DOMAIN-KEYWORD,wallhaven
+DOMAIN-KEYWORD,xsijishe
+DOMAIN-KEYWORD,minecraft
+DOMAIN-KEYWORD,follow
