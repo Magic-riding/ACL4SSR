@@ -1,4 +1,3 @@
-DOMAIN-KEYWORD,tagss
 DOMAIN-SUFFIX,mikanani.me
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,buyvm.net
@@ -14,3 +13,20 @@ DOMAIN-KEYWORD,xsijishe
 DOMAIN-SUFFIX,jellyfin.org
 DOMAIN-SUFFIX,vmiss.com
 DOMAIN-SUFFIX,diladele.com
+DOMAIN-SUFFIX,nyaa.si
+DOMAIN-SUFFIX,bangumi.moe
+DOMAIN-SUFFIX,acg.rip
+DOMAIN-SUFFIX,mikanani.me
+DOMAIN-SUFFIX,acgnx.se
+DOMAIN-SUFFIX,lolisuki.cn
+DOMAIN-SUFFIX,lolicon.app
+DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,asmhentai.com
+DOMAIN-SUFFIX,vmiss.com
+DOMAIN-SUFFIX,bwh81.net
+DOMAIN-SUFFIX,hanime1.me
+
+DOMAIN-KEYWORD,docker
+DOMAIN-KEYWORD,tagss
