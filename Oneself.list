@@ -31,6 +31,7 @@ DOMAIN-SUFFIX,alpinelinux.org
 DOMAIN-SUFFIX,python.org
 DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,urlimage.cc
+DOMAIN-SUFFIX,daumcdn.net
 
 DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,tagss
