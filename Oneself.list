@@ -35,6 +35,8 @@ DOMAIN-SUFFIX,daumcdn.net
 DOMAIN-SUFFIX,avbebe.com
 DOMAIN-SUFFIX,anidb.net
 DOMAIN-SUFFIX,mofeng.run
+DOMAIN-SUFFIX,debian.org
+DOMAIN-SUFFIX,proxmox.com
 
 DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,tagss
