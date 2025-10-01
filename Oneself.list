@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,mofeng.run
 DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,proxmox.com
 DOMAIN-SUFFIX,hifiti.com
+DOMAIN-SUFFIX,tagss.pro
 
 DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,tagss
