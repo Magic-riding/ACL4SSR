@@ -9,3 +9,7 @@ DOMAIN,sdk-log-upload.mihoyo.com
 DOMAIN,hyp-api.mihoyo.com
 DOMAIN,sdk-static.mihoyo.com
 DOMAIN,data-abtest-api.mihoyo.com
+
+
+
+DOMAIN-SUFFIX,openwrt.org
