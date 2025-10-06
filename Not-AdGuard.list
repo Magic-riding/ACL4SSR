@@ -14,6 +14,7 @@ DOMAIN,alpha1-chat.val.qq.com
 DOMAIN,alpha1-rms.val.qq.com
 DOMAIN,api.val.qq.com
 DOMAIN,wegame.gtimg.com
+DOMAIN,receiver.tdm.qq.com
 
 
 DOMAIN-SUFFIX,openwrt.org
