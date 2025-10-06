@@ -10,8 +10,6 @@ DOMAIN,hyp-api.mihoyo.com
 DOMAIN,sdk-static.mihoyo.com
 DOMAIN,data-abtest-api.mihoyo.com
 DOMAIN,www.wegame.com.cn
-#DOMAIN,wegame.gtimg.com
-#DOMAIN,receiver.tdm.qq.com
 
 
 DOMAIN-SUFFIX,openwrt.org
