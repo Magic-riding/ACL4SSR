@@ -12,5 +12,6 @@ DOMAIN,data-abtest-api.mihoyo.com
 DOMAIN,www.wegame.com.cn
 DOMAIN,alpha1-chat.val.qq.com
 DOMAIN,alpha1-rms.val.qq.com
+DOMAIN,api.val.qq.com
 
 DOMAIN-SUFFIX,openwrt.org
