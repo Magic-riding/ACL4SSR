@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,proxmox.com
 DOMAIN-SUFFIX,hifiti.com
 DOMAIN-SUFFIX,tagss.pro
 DOMAIN-SUFFIX,openwrt.org
+DOMAIN-SUFFIX,gying.net
 
 DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,tagss
