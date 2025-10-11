@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,gying.net
 DOMAIN-SUFFIX,llonebot.com
 DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,astrbot.app
 
 DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,tagss
