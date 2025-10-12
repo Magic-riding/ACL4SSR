@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,llonebot.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,astrbot.app
 DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,cloudflare.com
 
 DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,tagss
@@ -60,6 +61,7 @@ DOMAIN,u2.dmhy.org
 DOMAIN,60s.viki.moe
 DOMAIN,debian.map.fastlydns.net
 DOMAIN,acme-v02.api.letsencrypt.org
+
 
 IP-CIDR,185.199.108.153/24
 IP-CIDR,185.199.109.153/24
