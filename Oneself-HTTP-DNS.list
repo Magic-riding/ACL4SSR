@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,dns.google
+DOMAIN-SUFFIX,dns.quad9.net
+DOMAIN-SUFFIX,doh.opendns.com
+DOMAIN-SUFFIX,dns.adguard-dns.com
