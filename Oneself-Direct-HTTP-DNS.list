@@ -1,0 +1,6 @@
+DOMAIN-SUFFIX,dns.alidns.com
+IP-CIDR,223.5.5.5
+IP-CIDR,223.6.6.6
+DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,doh.360.cn
+DOMAIN-SUFFIX,doh-pure.onedns.net
