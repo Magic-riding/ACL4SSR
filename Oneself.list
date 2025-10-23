@@ -61,6 +61,7 @@ DOMAIN,60s.viki.moe
 DOMAIN,debian.map.fastlydns.net
 DOMAIN,acme-v02.api.letsencrypt.org
 DOMAIN,bgm-cache.wushuo.top
+DOMAIN,download.technitium.com
 
 
 IP-CIDR,185.199.108.153/24
