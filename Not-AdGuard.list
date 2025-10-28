@@ -14,9 +14,3 @@ DOMAIN,www.wegame.com.cn
 
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,val.qq.com
-DOMAIN-SUFFIX,data-track.yingxiong.com
-DOMAIN-SUFFIX,cdnstatic.yingxiong.com
-DOMAIN-SUFFIX,spro.yingxiong.com
-DOMAIN-SUFFIX,usdk.yingxiong.com
-DOMAIN-SUFFIX,sdk-api.yingxiong.com
-DOMAIN-SUFFIX,shyxhy.com
