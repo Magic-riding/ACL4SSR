@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,llonebot.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,astrbot.app
 DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,obsproject.com
 
 DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,tagss
