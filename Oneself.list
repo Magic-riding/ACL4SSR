@@ -46,6 +46,8 @@ DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,astrbot.app
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,obsproject.com
+DOMAIN-SUFFIX,zgovps.com
+DOMAIN-SUFFIX,zgocloud.cc
 
 DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,tagss
