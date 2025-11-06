@@ -48,6 +48,7 @@ DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,obsproject.com
 DOMAIN-SUFFIX,zgovps.com
 DOMAIN-SUFFIX,zgocloud.cc
+DOMAIN-SUFFIX,kuromis.com
 
 DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,tagss
