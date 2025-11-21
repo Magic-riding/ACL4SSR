@@ -51,6 +51,12 @@ DOMAIN-SUFFIX,zgocloud.cc
 DOMAIN-SUFFIX,kuromis.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,blender.org
+DOMAIN-SUFFIX,sketchfab.com
+DOMAIN-SUFFIX,cgtrader.com
+DOMAIN-SUFFIX,free3d.com
+DOMAIN-SUFFIX,polyhaven.com
+DOMAIN-SUFFIX,ambientcg.com
+
 
 DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,tagss
