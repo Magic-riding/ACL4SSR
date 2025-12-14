@@ -16,6 +16,7 @@ DOMAIN,lolstatic-a.akamaihd.net
 
 
 DOMAIN-SUFFIX,openwrt.org
-DOMAIN-SUFFIX,val.qq.com
+DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,gtimg.cn
+DOMAIN-SUFFIX,myqcloud.com
