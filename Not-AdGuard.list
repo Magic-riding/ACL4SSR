@@ -14,5 +14,8 @@ DOMAIN,riot-client.dyn.riotcdn.net
 DOMAIN,mval.qpic.cn
 DOMAIN,lolstatic-a.akamaihd.net
 
+
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,val.qq.com
+DOMAIN-SUFFIX,anticheatexpert.com
+DOMAIN-SUFFIX,gtimg.cn
