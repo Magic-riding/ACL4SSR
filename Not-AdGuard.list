@@ -12,6 +12,7 @@ DOMAIN,www.wegame.com.cn
 DOMAIN,riot-client.dyn.riotcdn.net
 DOMAIN,mval.qpic.cn
 DOMAIN,lolstatic-a.akamaihd.net
+DOMAIN,beyond.hycdn.cn
 
 
 
@@ -23,4 +24,3 @@ DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,bhsr.com
 DOMAIN-SUFFIX,mihoyo.com
 DOMAIN-SUFFIX,hypergryph.com
-DOMAIN-SUFFIX,hycdn.cn
